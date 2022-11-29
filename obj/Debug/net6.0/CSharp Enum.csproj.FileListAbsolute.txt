@@ -1,0 +1,15 @@
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\bin\Debug\net6.0\CSharp Enum.exe
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\bin\Debug\net6.0\CSharp Enum.deps.json
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\bin\Debug\net6.0\CSharp Enum.runtimeconfig.json
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\bin\Debug\net6.0\CSharp Enum.dll
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\bin\Debug\net6.0\CSharp Enum.pdb
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\obj\Debug\net6.0\CSharp Enum.csproj.AssemblyReference.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\obj\Debug\net6.0\CSharp Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\obj\Debug\net6.0\CSharp Enum.AssemblyInfoInputs.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\obj\Debug\net6.0\CSharp Enum.AssemblyInfo.cs
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\obj\Debug\net6.0\CSharp Enum.csproj.CoreCompileInputs.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\obj\Debug\net6.0\CSharp Enum.dll
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\obj\Debug\net6.0\refint\CSharp Enum.dll
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\obj\Debug\net6.0\CSharp Enum.pdb
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\obj\Debug\net6.0\CSharp Enum.genruntimeconfig.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\CSharp Enum\obj\Debug\net6.0\ref\CSharp Enum.dll
